@@ -1,6 +1,6 @@
-# Project Title
+# Larachat
 
-One Paragraph of project description goes here
+Laravel ajax realtime chat application
 
 ## Getting Started
 
