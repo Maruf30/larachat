@@ -8,6 +8,7 @@ This is an opensource laravel chat application. Here is the demo http://populy.u
 you can use this in any laravel application where you need the chatting functionality
 
 ### Feature
+
 1.user to user realtime chat
 
 2. new message notification
@@ -25,7 +26,9 @@ Just install and enjoy
 ### Installing
 
 1. download the project
+
 2.convert the env file to .env
+
 3. convert the htacces file to .htaccess
 
 4.in env file change your database details
