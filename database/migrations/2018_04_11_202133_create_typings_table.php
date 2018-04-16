@@ -17,7 +17,7 @@ class CreateTypingsTable extends Migration
             $table->increments('id');
             $table->tinyInteger('sender');
             $table->tinyInteger('recever');
-            $table->text('check_status')->default(0);
+            $table->text('check_status');
             $table->timestamps();
         });
     }
